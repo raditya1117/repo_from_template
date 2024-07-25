@@ -1,0 +1,2 @@
+This is a sample text document created to explain using GitHub desktop application.
+This statement added in new_sample_branch.
